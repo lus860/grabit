@@ -1,0 +1,6 @@
+ip 68.183.183.58
+username: root
+password: R00t123456*!
+
+login grabit@madinagroup.co.tz
+password Said12345
